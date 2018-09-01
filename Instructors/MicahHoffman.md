@@ -3,16 +3,16 @@ Micah Hoffman
 
 Contact
 -------
-- **Email** | [micah@spotlight-infosec.com](mailto:micah@securemail.spotlight-infosec.com)
+- **Email** | [micah@securemail.spotlight-infosec.com](mailto:micah@securemail.spotlight-infosec.com)
 
 - **Twitter** | [@WebBreacher](http://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher)
 
-- **Blog** | [Hacking and Hiking](https://webbreacher.com)
+- **Blog** | [Hacking and Hiking - WebBreacher.com](https://webbreacher.com)
 
 
 Affiliations
 -------
-- [SANS Institute](https://www.sans.org/instructors/micah-hoffman) | **Certified SANS Instructor**
+- [SANS Institute - https://www.sans.org/instructors/micah-hoffman](https://www.sans.org/instructors/micah-hoffman) | **Certified SANS Instructor and SEC487 Course Author**
 
 
 Bio
