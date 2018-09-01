@@ -3,37 +3,6 @@ SEC487
 
 [Labs](Labs/Labs.md)
 
-[Instructors]()
-
-- #### Instructors
--	[Micah Hoffman](/Instructors/MicahHoffman.md)
--	[David Mashburn](/Instructors/DavidMashburn.md)
-- #### Author
--	[Micah Hoffman](/Instructors/MicahHoffman.md)
-
-
-[Tools/Commands/Files]()
-
-- #### Frameworks and links
--   <a href="http://osintframework.com" target="_blank">Advanced Recon Framework</a>
--   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
-- #### Templates
--   [MindMap Template](https://the.osint.ninja/mindmaptemplate)
-- #### Cheat Sheets
--	[Linux CLI 101](/Tools/LinuxCLI101.md)
--	[Linux CLI](/Tools/LinuxCLI.md)
--	[Facebook]()
-- #### Tools
--   [curl](/Tools/curl.md)
--   [exiftool](/Tools/exiftool.md)
--   [Recon-ng](/Tools/Recon-ng.md)
--   [Wget](/Tools/Wget.md)
-
-[Updates]()
-
-- [Submit Bug/Suggestion](/Updates/Bugs.md)
-- [Course Suggestion](/Updates/Suggest.md)
-
 [LabQuickNav]()
 
 - [Index](/Labs/lab_index.md)
@@ -60,3 +29,32 @@ SEC487
 - [5.2](/Labs/487_5/2/sec487.5.2.md)
 - [5.3](/Labs/487_5/3/sec487.5.3.md)
 - [5.4](/Labs/487_5/4/sec487.5.4.md)
+
+[Tools/Commands/Files]()
+
+- #### Frameworks and links
+-   <a href="http://osintframework.com" target="_blank">OSINT Framework</a>
+-   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
+- #### Templates
+-   [MindMap Template](https://github.com/webbreacher/osinttools/) (Look for `OSINT_Maps.xmind` file)
+- #### Cheat Sheets
+-	[Linux CLI 101](/Tools/LinuxCLI101.md)
+-	[Linux CLI](/Tools/LinuxCLI.md)
+-	[Facebook]()
+- #### Tools
+-   [curl](/Tools/curl.md)
+-   [exiftool](/Tools/exiftool.md)
+-   [Recon-ng](/Tools/Recon-ng.md)
+-   [Wget](/Tools/Wget.md)
+
+[Updates]()
+
+- [Submit Bug/Suggestion](/Updates/Bugs.md)
+
+[Instructors]()
+
+- #### Instructors
+-	[Micah Hoffman](/Instructors/MicahHoffman.md)
+-	[David Mashburn](/Instructors/DavidMashburn.md)
+- #### Author
+-	[Micah Hoffman](/Instructors/MicahHoffman.md)
