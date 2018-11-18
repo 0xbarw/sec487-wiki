@@ -5,7 +5,7 @@ Welcome to the SANS SEC487 Wiki
 ----------
 
 ![SEC487](SEC487/487_coin_combined_onwhite.png) ![Cyber Defense](SEC487/CyberDefense_logo.jpg)
-`SEC487 Portal Version: 1.0.0 - Course Version D01_03`
+`SEC487 Portal Version: 1.0.1 - Course Version D01_03`
 
 ---
 
@@ -18,20 +18,18 @@ Contained in the wiki, you will find:
 - Methods of suggestion content and noting bugs
 ...and more
 
-
 Not in the Class Yet?
 -----------
 Hey this wiki is for everyone to use. If you are in the SEC487 course, you get the additional lab and video files for hands-on practice.
 
 Interested in increasing your OSINT knowledge? Consider signing up for this [SEC487: Open-Source Intelligence Gathering and Analysis](https://www.sans.org/course/open-source-intelligence-gathering) course.
 
-
 Course/Lab/Wiki Bugs or Suggestions
 ----------
 
 Please let us know if you find any bugs in the courseware/labs/wiki we need to squash. Also, reach out if you have suggestions to improve the course (e.g. content/labs/tools that should be added, removed, or updated). The easiest ways to submit these improvements are:
 
-1. Using the `#coursewaresuggestions` channel in the course https://sec487alum.slack.com Slack (See the Day 1 lab to get yourself set up!)
+1. Using the `#coursewaresuggestions` channel in the course <https://sec487alum.slack.com> Slack (See the Day 1 lab to get yourself set up) or go to <https://sec487.info/joinslack> and create an account).
 2. Or by sending an email to **<updates@sec487.info>**
 
 SEC487 Students, Keep In Touch

@@ -38,8 +38,9 @@ SEC487
 [Tools/Commands/Files]()
 
 - #### Frameworks and links
--   <a href="http://osintframework.com" target="_blank">OSINT Framework</a>
+-   <a href="https://osintframework.com" target="_blank">OSINT Framework</a>
 -   <a href="https://start.me/p/m6XQ08/osint" target="_blank">Technisette/OSINT</a>
+-   <a href="https://osintframework.de" target="_blank">Bruno Mortier</a>
 - #### Templates
 -   [MindMap Template](https://github.com/webbreacher/osinttools/) (Look for `OSINT_Maps.xmind` file)
 - #### Cheat Sheets
