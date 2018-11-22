@@ -12,11 +12,12 @@ Welcome to the SANS SEC487 Wiki
 The goal of the SEC487 wiki is to increase the **in-class**, and, most importantly, **after-class** value of the course material. This wiki is, and likely always will be, very much a work in progress.
 
 Contained in the wiki, you will find:
+
 - (For SEC487 students) Electronic Copies of the Lab Guides (**copy and paste, FTW!!!**)
 - Tool and technique cheat sheets
 - Instructor information
-- Methods of suggestion content and noting bugs
-...and more
+- Methods of suggesting content and noting bugs
+... and more
 
 Not in the Class Yet?
 -----------
@@ -37,15 +38,13 @@ SEC487 Students, Keep In Touch
 
 We recognize that the learning doesn't stop once you complete the course. In fact, it usually just begins. Stay in touch with your instructors and fellow students by joining the SEC487 alumni Slack group. Directions to request access are explained in the SEC487 Day 1 courseware.
 
-Social Media?
+Social Media
 ----------
 
-Do you use have a social media account on Twitter, Instagram, Facebook, or other site? Of COURSE you do! You probably have multiple sock puppets on each! 
-
-Feel free to use the `#SEC487` hash tag on those sites to discuss neat things you learned in class.
+Do you have a social media account? Of COURSE you do. You probably have multiple sock puppets on each! Feel free to use the `#SEC487` hash tag on those sites to discuss neat things you learned in class.
 
 The course author and instructors are mostly on Twitter. Feel free to tweet to us:
 
-- [@WebBreacher](https://twitter.com/webbreacher)
-- [@SANSDefense](https://twitter.com/sansdefense)
+- [@WebBreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher)
+- [@SANSDefense](https://twitter.com/sansdefense) [gimmick:TwitterFollow](@SANSDefense)
 - [#SEC487](https://twitter.com/search?q=%23sec487&src=typd)
