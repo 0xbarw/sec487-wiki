@@ -1,7 +1,7 @@
 SEC487
 ======
 
-[Labs](Labs/labs.md)
+[Labs](Labs/Labs.md)
 
 [MP3s](Labs/mp3s.md)
 
