@@ -5,6 +5,8 @@ SEC487
 
 [MP3s](Labs/mp3s.md)
 
+[Addendum](Labs/addendum.md)
+
 [Tools/Commands/Files]()
 
 - #### Frameworks and links
