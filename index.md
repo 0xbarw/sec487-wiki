@@ -5,7 +5,7 @@ Welcome to the SANS SEC487 Wiki
 ----------
 
 ![SEC487](SEC487/487_coin_combined_onwhite.png) ![Cyber Defense](SEC487/CyberDefense_logo.jpg)
-`SEC487 Portal Version: 1.0.4 - Current Course Version E01_03`
+`SEC487 Portal Version: 1.0.5 - Current Course Version E02_01`
 
 ---
 
@@ -29,7 +29,6 @@ The course author and instructors are mostly on Twitter. Tweet to us:
 
 * Micah Hoffman - [@WebBreacher](https://twitter.com/webbreacher) [gimmick:TwitterFollow](@webbreacher)
 * David Mashburn - [@d_mashburn](https://twitter.com/d_mashburn) [gimmick:TwitterFollow](@d_mashburn)
-* Mike Murr - [@mikemurr](https://twitter.com/mikemurr) [gimmick:TwitterFollow](@mikemurr)
 * John TerBush - [@thegumshoo](https://twitter.com/thegumshoo) [gimmick:TwitterFollow](@thegumshoo)
 * Nico Dekens - [@dutch_osintguy](https://twitter.com/dutch_osintguy) [gimmick:TwitterFollow](@dutch_osintguy)
 * [@SANSDefense](https://twitter.com/sansdefense) [gimmick:TwitterFollow](@SANSDefense)

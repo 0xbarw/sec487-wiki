@@ -3,6 +3,8 @@ SEC487
 
 [Labs](Labs/Labs.md)
 
+[Labs-E02](Labs/Labs2.md)
+
 [MP3s](Labs/mp3s.md)
 
 [Addendum](Labs/addendum.md)
