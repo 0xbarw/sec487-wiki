@@ -9,6 +9,8 @@ SEC487
 
 [Addendum](Labs/addendum.md)
 
+[Addendum-E02](Labs/addendum2.md)
+
 [Tools/Commands/Files]()
 
 - #### Frameworks and links
